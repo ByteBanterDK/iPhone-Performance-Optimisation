@@ -12,12 +12,11 @@ This project focuses on optimising the performance of an iPhone by adjusting var
 - Install Security Apps: Enhancing device security with antivirus apps.
 
 <h2>Languages and Utilities Used</h2>
-Languages: N/A
 Utilities: Built-in iOS Settings, AVG Mobile Security
 
 <h2>Environments Used</h2>
 Operating Systems: iOS
-Hardware: iPhone
+Hardware: iPhone (SE 2ND GENERATION) 
 
 <h2>Program Walk-through:</h2>
 
